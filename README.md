@@ -2,8 +2,7 @@
 
 Meu Projeto de um Banco de Dados para uma Locadora de Veículos.
 
-*Projeto de Conclusão do Módulo IV de Banco de Dados do Curso DEV_Makers*
-Realizado pela ADA e Sinqia
+*Projeto de Conclusão do Módulo IV de Banco de Dados do Curso DEV_Makers (Realizado pela ADA e Sinqia)*
 
 Especificações:
 
